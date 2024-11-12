@@ -1,7 +1,14 @@
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+there%2C++I'm+just+a+Fresher)](https://git.io/typing-svg)
-<img width="30%" height="auto" src="https://i.ibb.co/3CgrGSP/c8039ff8-93a9-41c4-a08c-3d55bd2d7f1a.jpg" height="150px" align="right"/>
+<img width="40%" height="auto" src="https://i.ibb.co/3CgrGSP/c8039ff8-93a9-41c4-a08c-3d55bd2d7f1a.jpg" height="150px" align="right"/>
+
+<div align="center">
+
+<br/>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
+</div>
 
 ```ts
 class AboutMe {
@@ -16,15 +23,6 @@ class AboutMe {
     }
 }
 ```
-
-
-<div align="center">
-
-<summary>📊 GitHub Profile Stats</summary>
-<br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
-</div>
 
 <br/>
 <br/>
