@@ -1,7 +1,7 @@
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+there%2C++I'm+just+a+Fresher)](https://git.io/typing-svg)
-<img width="40%" height="auto" src="https://i.ibb.co/3CgrGSP/c8039ff8-93a9-41c4-a08c-3d55bd2d7f1a.jpg" height="175px" align="right"/>
+<img width="40%" height="auto" src="https://i.ibb.co/3CgrGSP/c8039ff8-93a9-41c4-a08c-3d55bd2d7f1a.jpg" height="150%" align="right"/>
 
 <div align="center">
 
