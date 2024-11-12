@@ -3,13 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+there%2C++I'm+just+a+Fresher)](https://git.io/typing-svg)
 <img width="40%" height="auto" src="https://i.ibb.co/3CgrGSP/c8039ff8-93a9-41c4-a08c-3d55bd2d7f1a.jpg" height="150%" align="right"/>
 
-<div align="center">
-
-<br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
-</div>
-
 ```ts
 class AboutMe {
     readonly nickname: string = "Kilious Kry";
@@ -33,6 +26,14 @@ class AboutMe {
         width="396"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsKry&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
     />
+</div>
+
+<br/>
+
+<div align="center">
+    
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
+
 </div>
 
 <br/>
