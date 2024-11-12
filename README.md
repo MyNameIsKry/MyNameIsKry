@@ -27,9 +27,14 @@ class AboutMe {
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
+#
+
+<div align="center">
+    
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
+
+</div>
 
 <h1 align="center">My Stats</h1>
 <div align=center>
@@ -39,13 +44,7 @@ class AboutMe {
     />
 </div>
 
-<br/>
 
-<div align="center">
-    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
-
-</div>
 
 <br/>
 
