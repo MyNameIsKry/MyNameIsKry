@@ -40,7 +40,7 @@ class AboutMe {
 
 <h1 align="center">Language and tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,md,html,css,js,ts,csharp,sass,tailwind,react,nextjs,nodejs,git,github,mongodb,mysql,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,md,html,css,js,ts,cs,sass,tailwind,react,nextjs,nodejs,git,github,mongodb,mysql,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
 </p>
 
 > Yeu duong vo van
