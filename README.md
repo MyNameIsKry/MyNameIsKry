@@ -43,4 +43,6 @@ class AboutMe {
     <img src="https://skillicons.dev/icons?i=c,cpp,md,html,css,js,ts,cs,sass,tailwind,react,nextjs,nodejs,git,github,mongodb,mysql,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyNameIsKry&bg_color=fdf2f8&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 > Yeu duong vo van
