@@ -9,7 +9,7 @@
 ```ts
 class AboutMe {
     readonly nickname: string = "Kilious Kry";
-    readonly age: number = 20;
+    readonly age: number = 21;
     readonly isMale: boolean = true;
     readonly languages: string[] = ["Typescript", "C#"];
     readonly quote: string = "Yeu duong vo van";
