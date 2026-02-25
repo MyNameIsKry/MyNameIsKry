@@ -37,9 +37,7 @@ class AboutMe {
 <br/>
 
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=MyNameIsKry&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+    <img src="https://github-trophies.vercel.app/?username=mynameiskry&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
 </div>
 
 <h1 align="center">Language and tools</h1>
