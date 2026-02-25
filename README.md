@@ -26,13 +26,6 @@ class AboutMe {
 
 </div>
 
-<h1 align="center">My Stats</h1>
-<div align=center>
-    <img
-        width="396"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsKry&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
-</div>
 
 <br/>
 
