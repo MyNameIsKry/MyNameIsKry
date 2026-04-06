@@ -12,7 +12,7 @@ class AboutMe {
     readonly age: number = 21;
     readonly isMale: boolean = true;
     readonly languages: string[] = ["Typescript", "C#"];
-    readonly quote: string = "Yeu duong vo van";
+    readonly quote: string = "Code - Money - Family";
     
     public introduce(): string {
         return `👋 Hi, I'm ${this.nickname}!`;
